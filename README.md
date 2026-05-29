@@ -198,6 +198,11 @@ p.note { display: none; }
 <h2><span class="yellow">今回のパンフ</span></h2>
 <a href="20260528_001.png" target="_blank"><img src="20260528_001.png" alt="サンプル画像" class="responsive-media"></a>
 
+
+<br><br><br>
+<h2><span class="yellow">宴会後に共有された写真がすごかったので、載せますね〜</span></h2>
+<a href="20260529_018.JPG" target="_blank"><img src="20260529_018.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 <!--
 <h2><span class="yellow">今回の撮影範囲は、おおむね赤枠のエリア</span></h2>
 <a href="20260228_059.PNG" target="_blank"><img src="20260228_059.PNG" alt="サンプル画像" class="responsive-media"></a>
