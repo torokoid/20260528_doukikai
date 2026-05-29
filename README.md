@@ -345,7 +345,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<h2><span class="yellow">2026May28、'83年入社の同期会＠ひょうたん寿司でした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">2026May28、'83年入社の同期会＠ひょうたん寿司でした</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
