@@ -138,7 +138,7 @@ p.note { display: none; }
 <body>
     
 
-    <p><a href="https://peyng.github.io/restart/">前回までの記録</a>><a>今回2026,05,28</a></p>
+    <p><a href="https://peyng.github.io/restart/">前回までの記録</a>><a><span class="grey">今回2026,05,28</span></a></p>
 
 
 
@@ -345,7 +345,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<h2><span class="yellow">2026May28、宇都宮ベルモールのお花達からでした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">2026May28、'83年入社の同期会＠ひょうたん寿司でした<br>Thank you for reading this far.</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
